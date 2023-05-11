@@ -33,11 +33,6 @@
   
 </div>
   
- ##
 
-![Profile views counter](https://komarev.com/ghpvc/?username=matheusferreirads&&style=flat-square)  
-  
-
-<br/>  
 
 
