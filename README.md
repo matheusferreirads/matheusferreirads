@@ -13,6 +13,8 @@
       <img align="center" alt="Matheus-Py" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" alt="Matheus-jp" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
       <img align="center" alt="Matheus-sql" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+      <img align="center" alt="Matheus-amz" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+
       
   </div>    
 
