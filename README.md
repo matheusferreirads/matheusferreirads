@@ -9,10 +9,11 @@
   
 
   </div>
-  </div style="display:inline_block"><br>
-      <img align="center" alt="Matheus-Py" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <img align="center" alt="Matheus-Jp" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-      <img align="center" alt="Matheus-Jp" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <div style="display:inline_block"><br>
+      <img align="center" alt="Matheus-Py" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img align="center" alt="Matheus-jp" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+      <img align="center" alt="Matheus-sql" height="35" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+      
   </div>    
 
   ##
