@@ -1,5 +1,5 @@
 ## Matheus Ferreira
-🔭 Estagiário de Finanças Íon Assessoria - Itaú Unibanco
+🔭 Intern - Itaú Private Bank
 
   ##
   <div> 
