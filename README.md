@@ -1,5 +1,4 @@
 ## Matheus Ferreira
-🔭 Intern - Itaú Private Bank
 
   ##
   <div> 
